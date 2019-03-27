@@ -3,8 +3,8 @@ import './Navigation.css'
 const navigation = props => {
     return (
         <div>
-            <button>TO DO</button>
-            <button>STATYSTYKI</button>
+            <button className = "navigation-button">TO DO</button>
+            <button className = "navigation-button">STATYSTYKI</button>
         </div>
     )
 }

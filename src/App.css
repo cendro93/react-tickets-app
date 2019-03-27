@@ -1,3 +1,13 @@
-.App {
+h1 {
   text-align: center;
+}
+.tickets-container {
+  width: 50%;
+  margin: 0 auto;
+  display: table;
+}
+.tickets {
+  float:left;
+  width: 50%;
+  margin: 0 auto;
 }

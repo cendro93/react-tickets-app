@@ -1,0 +1,25 @@
+.Ticket {
+    width: 50%;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+}
+
+.ticket-button {
+    background-color: grey;
+    border: none;
+    color: black;
+    padding: 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 15%;
+}
+.ticket-content {
+    margin: 11px 0px;
+    float: left;
+    width: 80%;
+    margin-left: 5%;
+}
